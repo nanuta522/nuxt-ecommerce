@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtWelcome />
-    <p>Prueba subida</p>
+    <p>Segunda Prueba subida</p>
   </div>
 </template>
